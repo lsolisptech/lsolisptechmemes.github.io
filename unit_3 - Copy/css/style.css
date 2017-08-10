@@ -1,0 +1,62 @@
+*{
+  background-color: #797DC8;
+}
+.main img{
+float: left;
+  font-size: 45px;
+
+}
+.no img{
+  float: right;
+
+}
+header{
+  background-color: #FFED74;
+}
+main{
+  background-color: #E89C6C;
+}
+nav{
+  background-color: #E8C66A;
+}
+footer{
+  background-color: #FF957E;
+}
+div{
+  background-color: #FFE2B8;
+}
+.title{
+  font-family: 'Permanent Marker', cursive;
+
+
+  text-align:center;
+  font-size: 50px;
+  font-weight: bold;
+  color:#ddeedd;
+}
+.slogan{
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 400;
+  padding-top: -15px;
+  font-weight: bold;
+}
+.about img{
+  float: center;
+
+}
+.about{
+  font-family: 'Permanent Marker', cursive;
+
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: #ddeedd
+
+}
+.cm{
+  font-size: 30px;
+  text-align: center;
+
+}
