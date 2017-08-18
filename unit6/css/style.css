@@ -1,0 +1,83 @@
+*{
+  background-color: #797DC8;
+}
+.main img{
+float: left;
+  font-size: 45px;
+
+}
+.title{
+  font-family: 'Permanent Marker', cursive;
+
+
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  color:#ddeedd;
+}
+.slogan{
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 400;
+  padding-top: -15px;
+  font-weight: bold;
+}
+.slogan img{
+float: right;
+}
+.description{
+
+}
+.cm{
+  font-size: 30px;
+  text-align: center;
+
+}
+.description{
+  font-family: 'Permanent Marker', cursive;
+
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: #ddeedd
+
+}
+.nar{
+  text-align: center;
+  font-size: 30px;
+  color:black;
+}
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    
+    padding: 20px;
+    float: right;
+    width: 30%;
+}
+
+#right {font-family: 'Permanent Marker', cursive;
+
+text-align: center;
+font-size: 25px;
+font-weight: bold;
+color: #ddeedd;
+
+
+    padding: 20px;
+    float: right;
+    width: 62%;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
